@@ -1,9 +1,3 @@
-"""
-เขียนโปรแกรมอะไรก็ได้ที่อยาก present Python's skill set เจ๋ง ๆ ของตัวเอง
-ข้อนี้ไม่ต้องทำก็ได้ ไม่มีผลลบกับการให้คะแนน แต่ถ้าทำมาเเล้วเจ๋งจริง ก็จะพิจารณาเป็นพิเศษ
-
-"""
-
 import speech_recognition as sr
 from selenium import webdriver
 from selenium.webdriver.common.by import By
